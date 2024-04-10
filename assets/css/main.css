@@ -2821,9 +2821,10 @@ input, select, textarea {
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-	float: left;
+	text-indent: 6%;
+	float: inline-end;
 	width: 50%;
-	padding: 5px;
+	padding: 0px;
   }
 
 
