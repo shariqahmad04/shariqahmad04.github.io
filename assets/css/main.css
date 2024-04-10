@@ -2818,17 +2818,9 @@ input, select, textarea {
 				border-top: 0;
 			}
 
+			
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.row {
-	display: flex;
-  }
-  
-  .column {
-	text-indent: 5%;
-	flex: 50%;
-	padding: 0px;
-  }
+
 
 /* Button */
 
