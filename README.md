@@ -1,3 +1,7 @@
-# Shariq Ahmad
+# Shariq Ahmad Portfolio
+This is a webpage documenting my past and future endeavours within my Kinesiology undergraduate degree. 
 
-## Thanks for checking out my Github repository! 
+# URL
+https://shariqahmad04.github.io/
+
+Thanks for checking out my Github repository! 
