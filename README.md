@@ -4,4 +4,4 @@ This is the repository for the webpage documenting my past and future endeavours
 # URL
 https://shariqahmad04.github.io/
 
-Thanks for checking out my Github repository! 
+Thanks for checking out my Github repository and site!
